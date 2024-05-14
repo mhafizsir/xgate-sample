@@ -1,0 +1,9 @@
+
+r	java:S106"+Replace this use of System.err by a logger.(æÜÆıÿÿÿÿ8÷Å©÷1J$5bf2a612-d644-46a7-b76e-6bf365d76bde
+r	java:S106"+Replace this use of System.err by a logger.(òÆ¬¿ÿÿÿÿÿ8÷Å©÷1J$e9f5f522-62e3-4d7e-a778-08673fcfd466
+r	java:S106"+Replace this use of System.out by a logger.(Ö¨¨ıÿÿÿÿ8÷Å©÷1J$62ccc8b4-ae11-4f80-b172-ea52aae21d00
+r	java:S106"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8øÅ©÷1J$80f4421f-e5b9-4cf6-8d06-5449701ea1a5
+m	java:S106""+Replace this use of System.out by a logger.(òïê8ËÈÆ©÷1J$6401f7a0-edb5-4324-93ac-2b73f81824a4
+r	java:S106%"+Replace this use of System.err by a logger.(¥Ü©Ëûÿÿÿÿ8øÅ©÷1J$55ed9576-83d8-4eb7-87d8-0a6efb361a07
+v
+java:S1874A".Remove this use of "create"; it is deprecated.(¼¢Õ®ûÿÿÿÿ8ŸÅ©÷1J$2a6314a5-8918-447a-8941-3ae4d2921cab
